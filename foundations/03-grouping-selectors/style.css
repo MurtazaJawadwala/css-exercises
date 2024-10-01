@@ -1,0 +1,13 @@
+.me-button, .not-me-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.me-button {
+    background-color: black;
+    color: white;
+}
+
+.not-me-button {
+    background-color: yellow;
+}
